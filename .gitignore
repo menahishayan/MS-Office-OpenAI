@@ -1,0 +1,10 @@
+core/bin
+core/include
+core/lib
+*/.env
+__pycache__
+*/__pycache__
+
+.DS_Store
+*/.DS_Store
+core/pyvenv.cfg

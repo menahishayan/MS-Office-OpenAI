@@ -1,4 +1,13 @@
-Function RunPythonFromVenv(venvPath As String, argument As String) As String
+' Menahi Shayan, 2025.
+'
+' This project attempts to create an open source implementation of OpenAI and Gemini to 
+' work with MS Office 365 Apps such as Excel, Word, and Powerpoint.
+'
+' For questions, comments, or concerns, please raise a PR or Issue on the GitHub repository. (https://github.com/menahishayan/MS-Office-OpenAI)
+'
+' Licensed under GNU General Public License v3.0. See LICENSE for more information.
+
+Function AI(venvPath As String, argument As String) As String
     Dim pythonExe As String
     Dim pythonScript As String
     Dim command As String

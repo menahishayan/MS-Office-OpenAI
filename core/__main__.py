@@ -1,3 +1,12 @@
+"""
+This project attempts to create an open source implementation of OpenAI and Gemini to 
+work with MS Office 365 Apps such as Excel, Word, and Powerpoint.
+
+For questions, comments, or concerns, please raise a PR or Issue on the GitHub repository.
+
+Licensed under GNU General Public License v3.0. See LICENSE for more information.
+"""
+
 import os
 import sys
 
